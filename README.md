@@ -52,7 +52,6 @@ These are datasets where two or more variables are observed at each time. In mul
 ## Time Series Forecasting with Smoothing Techniques
 Moving average smoothing is a simple and effective technique in time series forecasting. The same name but very different from the moving average model which we discussed in the beginning. The earlier version of the moving average (MA) is a model of residual errors, whereas this smoothing technique consists of averaging values across a window of consecutive periods.
 
-- Moving Average Smoothing
 - Single Exponential Smoothing
 - Double Exponential Smoothing
 - Triple Exponential Smoothing
