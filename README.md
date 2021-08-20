@@ -65,6 +65,8 @@ Prabhakaran, S. (2019) Time Series Analysis in Python - A Comprehensive Guide wi
 
 Prabhakaran, S. (2019) ARIMA Model - Complete Guide to Time Series Forecasting in Python. Available at: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/ (Accessed: 17 August 2021)
 
+Quantopian (2016) Integration, Cointegration, and Stationarity. Available at: https://www.youtube.com/watch?v=Pn_RiDbK82M (Accessed: 16 August 2021)
+
 Shrivastava, S. (2020) Cross Validation in Time Series. Available at: https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4 (Accessed: 19 August 2021)
 
 Tiwari, A. (2020) Build Foundation for Time Series Forecasting. Available at: https://towardsdatascience.com/time-series-forecasting-968192b3781a (Accessed: 18 August 2021)
