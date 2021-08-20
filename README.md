@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time Series Analysis
 Overview of common time series analysis procedures and techniques. Split into:
 
 - Data Preparation
