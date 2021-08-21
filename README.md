@@ -8,6 +8,12 @@ Overview of common time series analysis procedures and techniques. Split into:
 - Time Series Forecasting with Exogeneous Variables
 - Time Series Forecasting with Smoothing Techniques
 
+## Installation
+Use `git clone` to get a copy of this repository.
+```
+$ git clone https://github.com/lucaskienast/Time-Series-Analysis.git
+$ cd Time-Series-Analysis
+```
 ## Data Preparation
 An initial and most important step in forecasting is characterizing the nature of the time series and investigating potential problems that must be taken care of before applying any forecasting methods for effective results.
 
