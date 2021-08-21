@@ -69,6 +69,8 @@ Arzamendia, O. (2019) Time Series Forecasting - A Getting Started Guide. Availab
 
 Brownlee, J. (2017) How to Remove Trends and Seasonality with a Difference Transform in Python. Available at: https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/ (Accessed: 18 August 2021)
 
+Etienne, B. (2019) Time Series in Python - Exponential Smoothing and ARIMA process. Available at: https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788 (Accessed: 21 August 2021)
+
 Nazarava, A. (2019) Prediction task with Multivariate Time Series and VAR model. Available at: https://towardsdatascience.com/prediction-task-with-multivariate-timeseries-and-var-model-47003f629f9 (Accessed: 21 August 2021)
 
 Paul, J. (2019) A Blueprint for Time Series Forecasting. Available at: https://towardsdatascience.com/a-blueprint-for-time-series-9f865609bfa2 (Accessed: 21 August 2021)
