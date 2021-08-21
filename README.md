@@ -65,6 +65,8 @@ Moving average smoothing is a simple and effective technique in time series fore
 
 ## References
 
+Arzamendia, O. (2019) Time Series Forecasting - A Getting Started Guide. Available at: https://towardsdatascience.com/time-series-forecasting-a-getting-started-guide-c435f9fa2216 (Accessed: 21 August 2021)
+
 Brownlee, J. (2017) How to Remove Trends and Seasonality with a Difference Transform in Python. Available at: https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/ (Accessed: 18 August 2021)
 
 Prabhakaran, S. (2019) Time Series Analysis in Python - A Comprehensive Guide with Examples. Available at: https://www.machinelearningplus.com/time-series/time-series-analysis-python/ (Accessed: 16 August 2021)
