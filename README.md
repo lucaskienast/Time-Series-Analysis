@@ -51,6 +51,7 @@ These are datasets where two or more variables are observed at each time. In mul
 - Vector Auto Regression Moving Average
 
 ## Time Series Forecasting with Exogeneous Variables
+An exogenous variable is one whose value is determined outside the model and is imposed on the model. In other words, variables that affect a model without being affected by it.
 
 - SARIMA with Exogenous Variables
 - Vector Autoregression Moving-Average with Exogenous Regressors
