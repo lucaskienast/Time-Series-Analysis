@@ -69,6 +69,8 @@ Arzamendia, O. (2019) Time Series Forecasting - A Getting Started Guide. Availab
 
 Brownlee, J. (2017) How to Remove Trends and Seasonality with a Difference Transform in Python. Available at: https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/ (Accessed: 18 August 2021)
 
+Paul, J. (2019) A Blueprint for Time Series Forecasting. Available at: https://towardsdatascience.com/a-blueprint-for-time-series-9f865609bfa2 (Accessed: 21 August 2021)
+
 Prabhakaran, S. (2019) Time Series Analysis in Python - A Comprehensive Guide with Examples. Available at: https://www.machinelearningplus.com/time-series/time-series-analysis-python/ (Accessed: 16 August 2021)
 
 Prabhakaran, S. (2019) ARIMA Model - Complete Guide to Time Series Forecasting in Python. Available at: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/ (Accessed: 17 August 2021)
