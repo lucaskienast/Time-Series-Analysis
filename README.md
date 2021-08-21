@@ -82,3 +82,5 @@ Shrivastava, S. (2020) Cross Validation in Time Series. Available at: https://me
 Tiwari, A. (2020) Build Foundation for Time Series Forecasting. Available at: https://towardsdatascience.com/time-series-forecasting-968192b3781a (Accessed: 18 August 2021)
 
 Tiwari, A. (2020) Build Evaluation Framework for Forecast Models. Available at: https://towardsdatascience.com/build-evaluation-framework-for-forecast-models-fbc1bd775edd (Accessed: 19 August 2021)
+
+Twiari, A. (2020) Let's Forecast Your Time Series using Classical Approaches. Available at: https://towardsdatascience.com/lets-forecast-your-time-series-using-classical-approaches-f84eb982212c (Accessed: 20 August 2021)
