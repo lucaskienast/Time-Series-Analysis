@@ -7,6 +7,7 @@ Overview of common time series analysis procedures and techniques. Split into:
 - Multivariate Time Series Forecasting
 - Time Series Forecasting with Exogeneous Variables
 - Time Series Forecasting with Smoothing Techniques
+- Variance Forecasting
 
 ## Installation
 Use `git clone` to get a copy of this repository.
