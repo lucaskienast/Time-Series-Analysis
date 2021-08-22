@@ -63,6 +63,13 @@ Moving average smoothing is a simple and effective technique in time series fore
 - Double Exponential Smoothing
 - Triple Exponential Smoothing
 
+## Variance Forecasting
+The ARCH or Autoregressive Conditional Heteroskedasticity method provides a way to model a change in variance in a time series that is time dependent, such as increasing or decreasing volatility. An extension of this approach named GARCH or Generalized Autoregressive Conditional Heteroskedasticity allows the method to support changes in the time dependent volatility, such as increasing and decreasing volatility in the same series.
+
+- ARCH
+- GARCH
+- ARIMA + GARCH
+
 ## References
 
 Arzamendia, O. (2019) Time Series Forecasting - A Getting Started Guide. Available at: https://towardsdatascience.com/time-series-forecasting-a-getting-started-guide-c435f9fa2216 (Accessed: 21 August 2021)
