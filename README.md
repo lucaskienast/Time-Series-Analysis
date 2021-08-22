@@ -73,6 +73,8 @@ Brownlee, J. (2019) How to Model Volatility with ARCH and GARCH for Time Series 
 
 Brownlee, J. (2017) How to Remove Trends and Seasonality with a Difference Transform in Python. Available at: https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/ (Accessed: 18 August 2021)
 
+Cordeiro, M. (2020) A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models. Available at: https://medium.com/analytics-vidhya/a-step-by-step-implementation-of-a-trading-strategy-in-python-using-arima-garch-models-b622e5b3aa39 (Accessed: 22 August 2021)
+
 Dierckx, T. (2020) ARIMA-GARCH forecasting with Python. Available at: https://medium.com/@thdierckx?p=7a3f797de3ff (Accessed: 22 August 2021)
 
 Etienne, B. (2019) Time Series in Python - Exponential Smoothing and ARIMA process. Available at: https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788 (Accessed: 21 August 2021)
