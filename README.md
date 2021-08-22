@@ -67,9 +67,13 @@ Moving average smoothing is a simple and effective technique in time series fore
 
 Arzamendia, O. (2019) Time Series Forecasting - A Getting Started Guide. Available at: https://towardsdatascience.com/time-series-forecasting-a-getting-started-guide-c435f9fa2216 (Accessed: 21 August 2021)
 
+Brownlee, J. (2020) How to Create an ARIMA Model for Time Series Forecasting in Python. Available at: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/ (Accessed: 22 August 2021)
+
 Brownlee, J. (2019) How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python. Available at: https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/ (Accessed: 22 August 2021)
 
 Brownlee, J. (2017) How to Remove Trends and Seasonality with a Difference Transform in Python. Available at: https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/ (Accessed: 18 August 2021)
+
+Dierckx, T. (2020) ARIMA-GARCH forecasting with Python. Available at: https://medium.com/@thdierckx?p=7a3f797de3ff (Accessed: 22 August 2021)
 
 Etienne, B. (2019) Time Series in Python - Exponential Smoothing and ARIMA process. Available at: https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788 (Accessed: 21 August 2021)
 
