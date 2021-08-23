@@ -103,6 +103,8 @@ Singh, A. (2018) A Gentle Introduction to Handling a Non-Stationary Time Series 
 
 Shrivastava, S. (2020) Cross Validation in Time Series. Available at: https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4 (Accessed: 19 August 2021)
 
+Sohi, Y. (2020) Statistical Forecasting for Time Series Data Part 6: FOrecasting Non-Stationary Time Series using ARIMA. Available at: https://towardsai.net/p/data-visualization/statistical-forecasting-for-time-series-data-part-6-forecasting-non-stationary-time-series-using (Accessed: 23 August 2021)
+
 Sohi, Y. (2020) Statistical Modeling for Time Series Forecasting. Available at: https://github.com/yashveersinghsohi/Statistical_Modeling_for_Time_Series_Forecasting (Accessed: 22 August 2021)
 
 Tiwari, A. (2020) Build Foundation for Time Series Forecasting. Available at: https://towardsdatascience.com/time-series-forecasting-968192b3781a (Accessed: 18 August 2021)
