@@ -95,6 +95,8 @@ Nazarava, A. (2019) Prediction task with Multivariate Time Series and VAR model.
 
 Paul, J. (2019) A Blueprint for Time Series Forecasting. Available at: https://towardsdatascience.com/a-blueprint-for-time-series-9f865609bfa2 (Accessed: 21 August 2021)
 
+Portilla, J. (2020) Python for Financial Analysis and Algorithmic Trading. Available at: https://www.udemy.com/course/python-for-finance-and-trading-algorithms/ (Accessed: 24 August 2021)
+
 Prabhakaran, S. (2019) Time Series Analysis in Python - A Comprehensive Guide with Examples. Available at: https://www.machinelearningplus.com/time-series/time-series-analysis-python/ (Accessed: 16 August 2021)
 
 Prabhakaran, S. (2019) ARIMA Model - Complete Guide to Time Series Forecasting in Python. Available at: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/ (Accessed: 17 August 2021)
