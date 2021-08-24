@@ -85,6 +85,8 @@ Cordeiro, M. (2020) A Step-by-step Implementation of a Trading Strategy in Pytho
 
 Dierckx, T. (2020) ARIMA-GARCH forecasting with Python. Available at: https://medium.com/@thdierckx?p=7a3f797de3ff (Accessed: 22 August 2021)
 
+Duke University (2021) Summary of rules for identifying ARIMA models. Available at: https://people.duke.edu/~rnau/arimrule.htm (Accessed: 24 August 2021)
+
 Etienne, B. (2019) Time Series in Python - Exponential Smoothing and ARIMA process. Available at: https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788 (Accessed: 21 August 2021)
 
 Kumar, R. (2020) Time Series Model(s) - ARCH and GARCH. Available at: https://medium.com/@ranjithkumar.rocking/time-series-model-s-arch-and-garch-2781a982b448 (Accessed: 21 August 2021)
